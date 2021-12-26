@@ -115,6 +115,10 @@ body {
 
 /* Main contents part */
 
+.contents_we {
+  overflow: hidden;
+}
+
 /* Select country */
 
 h2, h3 {
