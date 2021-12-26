@@ -1,0 +1,6087 @@
+/* Home page */
+
+.HOME {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 40;
+  }
+  .BODY {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 39;
+  }
+  .thumbnail__1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 780px;
+    top: 306px;
+    width: 106px;
+    height: 76px;
+    z-index: 38;
+  }
+  .thumbnail__2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(19, 92, 252);
+    position: absolute;
+    left: 886px;
+    top: 306px;
+    width: 106px;
+    height: 76px;
+    z-index: 37;
+  }
+  .thumbnail__3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(31, 70, 155);
+    position: absolute;
+    left: 991px;
+    top: 306px;
+    width: 106px;
+    height: 76px;
+    z-index: 36;
+  }
+  .thumbnail__4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(50, 177, 108);
+    position: absolute;
+    left: 780px;
+    top: 382px;
+    width: 106px;
+    height: 76px;
+    z-index: 35;
+  }
+  .thumbnail__5 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 886px;
+    top: 382px;
+    width: 106px;
+    height: 76px;
+    z-index: 34;
+  }
+  .thumbnail__6 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(255, 244, 92);
+    position: absolute;
+    left: 992px;
+    top: 382px;
+    width: 106px;
+    height: 76px;
+    z-index: 33;
+  }
+  .thumbnail__7 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(236, 105, 65);
+    position: absolute;
+    left: 780px;
+    top: 458px;
+    width: 106px;
+    height: 76px;
+    z-index: 32;
+  }
+  .thumbnail__8 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(234, 104, 162);
+    position: absolute;
+    left: 886px;
+    top: 458px;
+    width: 106px;
+    height: 76px;
+    z-index: 31;
+  }
+  .thumbnail__9 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(235, 104, 119);
+    position: absolute;
+    left: 992px;
+    top: 458px;
+    width: 106px;
+    height: 76px;
+    z-index: 30;
+  }
+  .NORTH_EUROPE {
+    font-size: 30px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 602.5px;
+    top: 248.068px;
+    width: 243px;
+    height: 20px;
+    z-index: 29;
+  }
+  .MAP_AND_PLOTS_WHERE_I_VISITED {
+    font-size: 30px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 637.25px;
+    top: 605.068px;
+    width: 523px;
+    height: 20px;
+    z-index: 28;
+  }
+  .SELECTED_PICTURES_OF_EACH_REGION {
+    font-size: 30px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 634.5px;
+    top: 178.068px;
+    width: 594px;
+    height: 20px;
+    z-index: 27;
+  }
+  .thumbnail_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(237, 104, 204);
+    position: absolute;
+    left: 602px;
+    top: 233px;
+    width: 674px;
+    height: 336px;
+    z-index: 26;
+  }
+  .Map_and_plots {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 724px;
+    top: 655px;
+    width: 468px;
+    height: 248px;
+    z-index: 25;
+  }
+  .HEADER {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 23;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 58.5px;
+    top: 53.082px;
+    width: 457px;
+    height: 24px;
+    z-index: 22;
+  }
+  .Rectangle_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 59px;
+    top: 23px;
+    width: 538px;
+    height: 94px;
+    z-index: 21;
+  }
+  .ABOUT {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1674.016px;
+    top: 67.082px;
+    width: 128px;
+    height: 34px;
+    z-index: 20;
+  }
+  .WEST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -webkit-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -ms-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    position: absolute;
+    left: 1507px;
+    top: 66.797px;
+    width: 104px;
+    height: 33.571px;
+    z-index: 19;
+  }
+  .EAST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1376.5px;
+    top: 67.082px;
+    width: 95px;
+    height: 34px;
+    z-index: 18;
+  }
+  .SOUTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1241.5px;
+    top: 67.082px;
+    width: 127px;
+    height: 34px;
+    z-index: 17;
+  }
+  .NORTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1091.5px;
+    top: 67.082px;
+    width: 133px;
+    height: 34px;
+    z-index: 16;
+  }
+  .EUROPE {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1236px;
+    top: 18.082px;
+    width: 149px;
+    height: 24px;
+    z-index: 15;
+  }
+  .EUROPE_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1096px;
+    top: 12px;
+    width: 560px;
+    height: 115px;
+    z-index: 14;
+  }
+  .Header {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: -3px;
+    width: 1920px;
+    height: 150px;
+    z-index: 13;
+  }
+  .FOOTER {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 11;
+  }
+  .Facebook {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 898.5px;
+    top: 990.288px;
+    width: 99px;
+    height: 16px;
+    z-index: 10;
+  }
+  .Instagram {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1067.5px;
+    top: 1015.055px;
+    width: 105px;
+    height: 21px;
+    z-index: 9;
+  }
+  .Twiter {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 735px;
+    top: 1015.055px;
+    width: 70px;
+    height: 16px;
+    z-index: 8;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 734px;
+    top: 989px;
+    width: 120px;
+    height: 80px;
+    z-index: 7;
+  }
+  .Twitter_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1062px;
+    top: 989px;
+    width: 120px;
+    height: 80px;
+    z-index: 6;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 898px;
+    top: 989px;
+    width: 120px;
+    height: 80px;
+    z-index: 5;
+  }
+  .Footer {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 979px;
+    width: 1920px;
+    height: 100px;
+    z-index: 4;
+  }
+  .Layer_1 {
+    background-image: url("Layer 1.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+    z-index: 2;
+  }
+  
+/* North Europe page */
+
+.NORTH_EUROPE {
+    position: absolute;
+    left: 0px;
+    top: 1180px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 153;
+  }
+  .BODY {
+    position: absolute;
+    left: 0px;
+    top: -1180px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 152;
+  }
+  .PLACE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2041px;
+    width: 223px;
+    height: 10px;
+    z-index: 151;
+  }
+  .DATE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2031px;
+    width: 223px;
+    height: 10px;
+    z-index: 150;
+  }
+  .TITLE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2021px;
+    width: 223px;
+    height: 10px;
+    z-index: 149;
+  }
+  .VISITED_PLACE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 2042.2px;
+    z-index: 148;
+  }
+  .PLACE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2041px;
+    width: 95px;
+    height: 10px;
+    z-index: 147;
+  }
+  .VISITED_DATE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 2032.2px;
+    z-index: 146;
+  }
+  .DATE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2031px;
+    width: 95px;
+    height: 10px;
+    z-index: 145;
+  }
+  .TITLE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 2022.2px;
+    z-index: 144;
+  }
+  .TITLE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2021px;
+    width: 95px;
+    height: 10px;
+    z-index: 143;
+  }
+  .PLACE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 2041px;
+    width: 223px;
+    height: 10px;
+    z-index: 142;
+  }
+  .DATE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 2031px;
+    width: 223px;
+    height: 10px;
+    z-index: 141;
+  }
+  .TITLE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 2021px;
+    width: 223px;
+    height: 10px;
+    z-index: 140;
+  }
+  .VISITED_PLACE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 2042.2px;
+    z-index: 139;
+  }
+  .PLACE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 2041px;
+    width: 95px;
+    height: 10px;
+    z-index: 138;
+  }
+  .VISITED_DATE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 2032.2px;
+    z-index: 137;
+  }
+  .DATE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 2031px;
+    width: 95px;
+    height: 10px;
+    z-index: 136;
+  }
+  .TITLE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 855px;
+    top: 2022.2px;
+    z-index: 135;
+  }
+  .TITLE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 2021px;
+    width: 95px;
+    height: 10px;
+    z-index: 134;
+  }
+  .PLACE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 2041px;
+    width: 223px;
+    height: 10px;
+    z-index: 133;
+  }
+  .DATE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 2031px;
+    width: 223px;
+    height: 10px;
+    z-index: 132;
+  }
+  .TITLE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 2021px;
+    width: 223px;
+    height: 10px;
+    z-index: 131;
+  }
+  .VISITED_PLACE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 2042.2px;
+    z-index: 130;
+  }
+  .PLACE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 2041px;
+    width: 95px;
+    height: 10px;
+    z-index: 129;
+  }
+  .VISITED_DATE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 2032.2px;
+    z-index: 128;
+  }
+  .DATE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 2031px;
+    width: 95px;
+    height: 10px;
+    z-index: 127;
+  }
+  .TITLE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 487px;
+    top: 2022.2px;
+    z-index: 126;
+  }
+  .TITLE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 2021px;
+    width: 95px;
+    height: 10px;
+    z-index: 125;
+  }
+  .PLACE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 2042px;
+    width: 223px;
+    height: 10px;
+    z-index: 124;
+  }
+  .DATE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 2032px;
+    width: 223px;
+    height: 10px;
+    z-index: 123;
+  }
+  .TITLE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 2022px;
+    width: 223px;
+    height: 10px;
+    z-index: 122;
+  }
+  .VISITED_PLACE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 2043.2px;
+    z-index: 121;
+  }
+  .PLACE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 2042px;
+    width: 95px;
+    height: 10px;
+    z-index: 120;
+  }
+  .VISITED_DATE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 2033.2px;
+    z-index: 119;
+  }
+  .DATE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 2032px;
+    width: 95px;
+    height: 10px;
+    z-index: 118;
+  }
+  .TITLE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 116px;
+    top: 2023.2px;
+    z-index: 117;
+  }
+  .TITLE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 2022px;
+    width: 95px;
+    height: 10px;
+    z-index: 116;
+  }
+  .PLACE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 1686px;
+    width: 223px;
+    height: 10px;
+    z-index: 115;
+  }
+  .DATE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 1676px;
+    width: 223px;
+    height: 10px;
+    z-index: 114;
+  }
+  .TITLE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 1666px;
+    width: 223px;
+    height: 10px;
+    z-index: 113;
+  }
+  .VISITED_PLACE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 1687.2px;
+    z-index: 112;
+  }
+  .PLACE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 1686px;
+    width: 95px;
+    height: 10px;
+    z-index: 111;
+  }
+  .VISITED_DATE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 1677.2px;
+    z-index: 110;
+  }
+  .DATE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 1676px;
+    width: 95px;
+    height: 10px;
+    z-index: 109;
+  }
+  .TITLE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 1667.2px;
+    z-index: 108;
+  }
+  .TITLE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 1666px;
+    width: 95px;
+    height: 10px;
+    z-index: 107;
+  }
+  .PLACE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 1686px;
+    width: 223px;
+    height: 10px;
+    z-index: 106;
+  }
+  .DATE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 1676px;
+    width: 223px;
+    height: 10px;
+    z-index: 105;
+  }
+  .TITLE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 1666px;
+    width: 223px;
+    height: 10px;
+    z-index: 104;
+  }
+  .VISITED_PLACE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 1687.2px;
+    z-index: 103;
+  }
+  .PLACE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 1686px;
+    width: 95px;
+    height: 10px;
+    z-index: 102;
+  }
+  .VISITED_DATE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 1677.2px;
+    z-index: 101;
+  }
+  .DATE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 1676px;
+    width: 95px;
+    height: 10px;
+    z-index: 100;
+  }
+  .TITLE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 853px;
+    top: 1667.2px;
+    z-index: 99;
+  }
+  .TITLE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 1666px;
+    width: 95px;
+    height: 10px;
+    z-index: 98;
+  }
+  .PLACE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 1686px;
+    width: 223px;
+    height: 10px;
+    z-index: 97;
+  }
+  .DATE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 1676px;
+    width: 223px;
+    height: 10px;
+    z-index: 96;
+  }
+  .TITLE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 1666px;
+    width: 223px;
+    height: 10px;
+    z-index: 95;
+  }
+  .VISITED_PLACE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 1687.2px;
+    z-index: 94;
+  }
+  .PLACE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 1686px;
+    width: 95px;
+    height: 10px;
+    z-index: 93;
+  }
+  .VISITED_DATE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 1677.2px;
+    z-index: 92;
+  }
+  .DATE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 1676px;
+    width: 95px;
+    height: 10px;
+    z-index: 91;
+  }
+  .TITLE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 485px;
+    top: 1667.2px;
+    z-index: 90;
+  }
+  .TITLE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 1666px;
+    width: 95px;
+    height: 10px;
+    z-index: 89;
+  }
+  .PLACE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 1687px;
+    width: 223px;
+    height: 10px;
+    z-index: 88;
+  }
+  .DATE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 1677px;
+    width: 223px;
+    height: 10px;
+    z-index: 87;
+  }
+  .TITLE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 1667px;
+    width: 223px;
+    height: 10px;
+    z-index: 86;
+  }
+  .VISITED_PLACE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 1688.2px;
+    z-index: 85;
+  }
+  .PLACE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 1687px;
+    width: 95px;
+    height: 10px;
+    z-index: 84;
+  }
+  .VISITED_DATE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 1678.2px;
+    z-index: 83;
+  }
+  .DATE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 1677px;
+    width: 95px;
+    height: 10px;
+    z-index: 82;
+  }
+  .TITLE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115px;
+    top: 1668.2px;
+    z-index: 81;
+  }
+  .TITLE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 1667px;
+    width: 95px;
+    height: 10px;
+    z-index: 80;
+  }
+  .FINLAND {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 108px;
+    top: 1744.6px;
+    z-index: 79;
+  }
+  .ICELAND {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 109px;
+    top: 1390.6px;
+    z-index: 78;
+  }
+  .NORTH_EUROPE {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 51px;
+    top: 1346.6px;
+    z-index: 77;
+  }
+  .VERTICAL_ScrollBar {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(137, 137, 137);
+    position: absolute;
+    left: 1887px;
+    top: 1329px;
+    width: 31px;
+    height: 306px;
+    z-index: 76;
+  }
+  .VERTICAL_ScrollBar_whole {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(191, 191, 191);
+    position: absolute;
+    left: 1887px;
+    top: 1328px;
+    width: 32px;
+    height: 831px;
+    z-index: 75;
+  }
+  .LINE2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 1786px;
+    width: 318px;
+    height: 230px;
+    z-index: 74;
+  }
+  .LINE2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 1787px;
+    width: 318px;
+    height: 230px;
+    z-index: 73;
+  }
+  .LINE2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 1787px;
+    width: 318px;
+    height: 230px;
+    z-index: 72;
+  }
+  .LINE2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 1787px;
+    width: 318px;
+    height: 230px;
+    z-index: 71;
+  }
+  .LINE2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 1741px;
+    width: 1790px;
+    height: 322px;
+    z-index: 70;
+  }
+  .LINE1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 1433px;
+    width: 318px;
+    height: 230px;
+    z-index: 69;
+  }
+  .LINE1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 1433px;
+    width: 318px;
+    height: 230px;
+    z-index: 68;
+  }
+  .LINE1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 1433px;
+    width: 318px;
+    height: 230px;
+    z-index: 67;
+  }
+  .LINE1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 1433px;
+    width: 318px;
+    height: 230px;
+    z-index: 66;
+  }
+  .LINE1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 1383px;
+    width: 1790px;
+    height: 322px;
+    z-index: 65;
+  }
+  .FOOTER {
+    position: absolute;
+    left: 0px;
+    top: -1180px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 63;
+  }
+  .Facebook {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 898.5px;
+    top: 2170.288px;
+    width: 99px;
+    height: 16px;
+    z-index: 62;
+  }
+  .Instagram {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1067.5px;
+    top: 2195.055px;
+    width: 105px;
+    height: 21px;
+    z-index: 61;
+  }
+  .Twiter {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 735px;
+    top: 2195.055px;
+    width: 70px;
+    height: 16px;
+    z-index: 60;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 734px;
+    top: 2169px;
+    width: 120px;
+    height: 80px;
+    z-index: 59;
+  }
+  .Twitter_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1062px;
+    top: 2169px;
+    width: 120px;
+    height: 80px;
+    z-index: 58;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 898px;
+    top: 2169px;
+    width: 120px;
+    height: 80px;
+    z-index: 57;
+  }
+  .Footer {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 2159px;
+    width: 1920px;
+    height: 100px;
+    z-index: 56;
+  }
+  .HEADER {
+    position: absolute;
+    left: 0px;
+    top: -1180px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 54;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 58.5px;
+    top: 1233.082px;
+    width: 457px;
+    height: 24px;
+    z-index: 53;
+  }
+  .Rectangle_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 59px;
+    top: 1203px;
+    width: 538px;
+    height: 94px;
+    z-index: 52;
+  }
+  .ABOUT {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1674.016px;
+    top: 1247.082px;
+    width: 128px;
+    height: 34px;
+    z-index: 51;
+  }
+  .WEST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -webkit-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -ms-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    position: absolute;
+    left: 1507px;
+    top: 1246.797px;
+    width: 104px;
+    height: 33.571px;
+    z-index: 50;
+  }
+  .EAST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1376.5px;
+    top: 1247.082px;
+    width: 95px;
+    height: 34px;
+    z-index: 49;
+  }
+  .SOUTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1241.5px;
+    top: 1247.082px;
+    width: 127px;
+    height: 34px;
+    z-index: 48;
+  }
+  .NORTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1091.5px;
+    top: 1247.082px;
+    width: 133px;
+    height: 34px;
+    z-index: 47;
+  }
+  .EUROPE {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1236px;
+    top: 1198.082px;
+    width: 149px;
+    height: 24px;
+    z-index: 46;
+  }
+  .EUROPE_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1096px;
+    top: 1192px;
+    width: 560px;
+    height: 115px;
+    z-index: 45;
+  }
+  .Header {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 1177px;
+    width: 1920px;
+    height: 150px;
+    z-index: 44;
+  }
+  .North_Europe_image_jpg {
+    background-image: url("portfolio_wireframe-assets/North_Europe-image.jpg");
+    opacity: 0.702;
+    position: absolute;
+    left: 0px;
+    top: 165px;
+    width: 4671px;
+    height: 3109px;
+    z-index: 43;
+  }
+  
+/* South Europe page */
+
+.SOUTH_EUROPE {
+    position: absolute;
+    left: 0px;
+    top: 2360px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 285;
+  }
+  .BODY {
+    position: absolute;
+    left: 0px;
+    top: -2360px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 284;
+  }
+  .PLACE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 3221px;
+    width: 223px;
+    height: 10px;
+    z-index: 283;
+  }
+  .DATE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 3211px;
+    width: 223px;
+    height: 10px;
+    z-index: 282;
+  }
+  .TITLE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 3201px;
+    width: 223px;
+    height: 10px;
+    z-index: 281;
+  }
+  .VISITED_PLACE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 3222.2px;
+    z-index: 280;
+  }
+  .PLACE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 3221px;
+    width: 95px;
+    height: 10px;
+    z-index: 279;
+  }
+  .VISITED_DATE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 3212.2px;
+    z-index: 278;
+  }
+  .DATE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 3211px;
+    width: 95px;
+    height: 10px;
+    z-index: 277;
+  }
+  .TITLE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 3202.2px;
+    z-index: 276;
+  }
+  .TITLE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 3201px;
+    width: 95px;
+    height: 10px;
+    z-index: 275;
+  }
+  .PLACE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 3221px;
+    width: 223px;
+    height: 10px;
+    z-index: 274;
+  }
+  .DATE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 3211px;
+    width: 223px;
+    height: 10px;
+    z-index: 273;
+  }
+  .TITLE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 3201px;
+    width: 223px;
+    height: 10px;
+    z-index: 272;
+  }
+  .VISITED_PLACE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 3222.2px;
+    z-index: 271;
+  }
+  .PLACE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 3221px;
+    width: 95px;
+    height: 10px;
+    z-index: 270;
+  }
+  .VISITED_DATE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 3212.2px;
+    z-index: 269;
+  }
+  .DATE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 3211px;
+    width: 95px;
+    height: 10px;
+    z-index: 268;
+  }
+  .TITLE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 855px;
+    top: 3202.2px;
+    z-index: 267;
+  }
+  .TITLE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 3201px;
+    width: 95px;
+    height: 10px;
+    z-index: 266;
+  }
+  .PLACE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 3221px;
+    width: 223px;
+    height: 10px;
+    z-index: 265;
+  }
+  .DATE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 3211px;
+    width: 223px;
+    height: 10px;
+    z-index: 264;
+  }
+  .TITLE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 3201px;
+    width: 223px;
+    height: 10px;
+    z-index: 263;
+  }
+  .VISITED_PLACE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 3222.2px;
+    z-index: 262;
+  }
+  .PLACE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 3221px;
+    width: 95px;
+    height: 10px;
+    z-index: 261;
+  }
+  .VISITED_DATE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 3212.2px;
+    z-index: 260;
+  }
+  .DATE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 3211px;
+    width: 95px;
+    height: 10px;
+    z-index: 259;
+  }
+  .TITLE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 487px;
+    top: 3202.2px;
+    z-index: 258;
+  }
+  .TITLE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 3201px;
+    width: 95px;
+    height: 10px;
+    z-index: 257;
+  }
+  .PLACE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 3222px;
+    width: 223px;
+    height: 10px;
+    z-index: 256;
+  }
+  .DATE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 3212px;
+    width: 223px;
+    height: 10px;
+    z-index: 255;
+  }
+  .TITLE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 3202px;
+    width: 223px;
+    height: 10px;
+    z-index: 254;
+  }
+  .VISITED_PLACE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 3223.2px;
+    z-index: 253;
+  }
+  .PLACE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 3222px;
+    width: 95px;
+    height: 10px;
+    z-index: 252;
+  }
+  .VISITED_DATE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 3213.2px;
+    z-index: 251;
+  }
+  .DATE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 3212px;
+    width: 95px;
+    height: 10px;
+    z-index: 250;
+  }
+  .TITLE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 116px;
+    top: 3203.2px;
+    z-index: 249;
+  }
+  .TITLE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 3202px;
+    width: 95px;
+    height: 10px;
+    z-index: 248;
+  }
+  .PLACE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2866px;
+    width: 223px;
+    height: 10px;
+    z-index: 247;
+  }
+  .DATE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2856px;
+    width: 223px;
+    height: 10px;
+    z-index: 246;
+  }
+  .TITLE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2846px;
+    width: 223px;
+    height: 10px;
+    z-index: 245;
+  }
+  .VISITED_PLACE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 2867.2px;
+    z-index: 244;
+  }
+  .PLACE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2866px;
+    width: 95px;
+    height: 10px;
+    z-index: 243;
+  }
+  .VISITED_DATE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 2857.2px;
+    z-index: 242;
+  }
+  .DATE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2856px;
+    width: 95px;
+    height: 10px;
+    z-index: 241;
+  }
+  .TITLE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 2847.2px;
+    z-index: 240;
+  }
+  .TITLE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2846px;
+    width: 95px;
+    height: 10px;
+    z-index: 239;
+  }
+  .PLACE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 2866px;
+    width: 223px;
+    height: 10px;
+    z-index: 238;
+  }
+  .DATE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 2856px;
+    width: 223px;
+    height: 10px;
+    z-index: 237;
+  }
+  .TITLE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 2846px;
+    width: 223px;
+    height: 10px;
+    z-index: 236;
+  }
+  .VISITED_PLACE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 2867.2px;
+    z-index: 235;
+  }
+  .PLACE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2866px;
+    width: 95px;
+    height: 10px;
+    z-index: 234;
+  }
+  .VISITED_DATE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 2857.2px;
+    z-index: 233;
+  }
+  .DATE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2856px;
+    width: 95px;
+    height: 10px;
+    z-index: 232;
+  }
+  .TITLE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 853px;
+    top: 2847.2px;
+    z-index: 231;
+  }
+  .TITLE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2846px;
+    width: 95px;
+    height: 10px;
+    z-index: 230;
+  }
+  .PLACE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 2866px;
+    width: 223px;
+    height: 10px;
+    z-index: 229;
+  }
+  .DATE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 2856px;
+    width: 223px;
+    height: 10px;
+    z-index: 228;
+  }
+  .TITLE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 2846px;
+    width: 223px;
+    height: 10px;
+    z-index: 227;
+  }
+  .VISITED_PLACE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 2867.2px;
+    z-index: 226;
+  }
+  .PLACE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2866px;
+    width: 95px;
+    height: 10px;
+    z-index: 225;
+  }
+  .VISITED_DATE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 2857.2px;
+    z-index: 224;
+  }
+  .DATE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2856px;
+    width: 95px;
+    height: 10px;
+    z-index: 223;
+  }
+  .TITLE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 485px;
+    top: 2847.2px;
+    z-index: 222;
+  }
+  .TITLE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2846px;
+    width: 95px;
+    height: 10px;
+    z-index: 221;
+  }
+  .PLACE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 2867px;
+    width: 223px;
+    height: 10px;
+    z-index: 220;
+  }
+  .DATE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 2857px;
+    width: 223px;
+    height: 10px;
+    z-index: 219;
+  }
+  .TITLE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 2847px;
+    width: 223px;
+    height: 10px;
+    z-index: 218;
+  }
+  .VISITED_PLACE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 2868.2px;
+    z-index: 217;
+  }
+  .PLACE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2867px;
+    width: 95px;
+    height: 10px;
+    z-index: 216;
+  }
+  .VISITED_DATE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 2858.2px;
+    z-index: 215;
+  }
+  .DATE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2857px;
+    width: 95px;
+    height: 10px;
+    z-index: 214;
+  }
+  .TITLE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115px;
+    top: 2848.2px;
+    z-index: 213;
+  }
+  .TITLE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2847px;
+    width: 95px;
+    height: 10px;
+    z-index: 212;
+  }
+  .SPAIN {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 108px;
+    top: 2924.6px;
+    z-index: 211;
+  }
+  .ITALY {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 108px;
+    top: 2570.6px;
+    z-index: 210;
+  }
+  .SOUTH_EUROPE {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 54px;
+    top: 2526.6px;
+    z-index: 209;
+  }
+  .VERTICAL_ScrollBar {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(137, 137, 137);
+    position: absolute;
+    left: 1887px;
+    top: 2509px;
+    width: 31px;
+    height: 306px;
+    z-index: 208;
+  }
+  .VERTICAL_ScrollBar_whole {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(191, 191, 191);
+    position: absolute;
+    left: 1887px;
+    top: 2508px;
+    width: 32px;
+    height: 831px;
+    z-index: 207;
+  }
+  .LINE2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2966px;
+    width: 318px;
+    height: 230px;
+    z-index: 206;
+  }
+  .LINE2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 2967px;
+    width: 318px;
+    height: 230px;
+    z-index: 205;
+  }
+  .LINE2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 2967px;
+    width: 318px;
+    height: 230px;
+    z-index: 204;
+  }
+  .LINE2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 2967px;
+    width: 318px;
+    height: 230px;
+    z-index: 203;
+  }
+  .LINE2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 2921px;
+    width: 1790px;
+    height: 322px;
+    z-index: 202;
+  }
+  .LINE1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 201;
+  }
+  .LINE1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 200;
+  }
+  .LINE1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 199;
+  }
+  .LINE1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 198;
+  }
+  .LINE1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 2563px;
+    width: 1790px;
+    height: 322px;
+    z-index: 197;
+  }
+  .FOOTER {
+    position: absolute;
+    left: 0px;
+    top: -2360px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 195;
+  }
+  .Facebook {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 898.5px;
+    top: 3350.288px;
+    width: 99px;
+    height: 16px;
+    z-index: 194;
+  }
+  .Instagram {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1067.5px;
+    top: 3375.055px;
+    width: 105px;
+    height: 21px;
+    z-index: 193;
+  }
+  .Twiter {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 735px;
+    top: 3375.055px;
+    width: 70px;
+    height: 16px;
+    z-index: 192;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 734px;
+    top: 3349px;
+    width: 120px;
+    height: 80px;
+    z-index: 191;
+  }
+  .Twitter_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1062px;
+    top: 3349px;
+    width: 120px;
+    height: 80px;
+    z-index: 190;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 898px;
+    top: 3349px;
+    width: 120px;
+    height: 80px;
+    z-index: 189;
+  }
+  .Footer {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 3339px;
+    width: 1920px;
+    height: 100px;
+    z-index: 188;
+  }
+  .HEADER {
+    position: absolute;
+    left: 0px;
+    top: -2360px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 186;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 58.5px;
+    top: 2413.082px;
+    width: 457px;
+    height: 24px;
+    z-index: 185;
+  }
+  .Rectangle_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 59px;
+    top: 2383px;
+    width: 538px;
+    height: 94px;
+    z-index: 184;
+  }
+  .ABOUT {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1674.016px;
+    top: 2427.082px;
+    width: 128px;
+    height: 34px;
+    z-index: 183;
+  }
+  .WEST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -webkit-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -ms-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    position: absolute;
+    left: 1507px;
+    top: 2426.797px;
+    width: 104px;
+    height: 33.571px;
+    z-index: 182;
+  }
+  .EAST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1376.5px;
+    top: 2427.082px;
+    width: 95px;
+    height: 34px;
+    z-index: 181;
+  }
+  .SOUTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1241.5px;
+    top: 2427.082px;
+    width: 127px;
+    height: 34px;
+    z-index: 180;
+  }
+  .NORTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1091.5px;
+    top: 2427.082px;
+    width: 133px;
+    height: 34px;
+    z-index: 179;
+  }
+  .EUROPE {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1236px;
+    top: 2378.082px;
+    width: 149px;
+    height: 24px;
+    z-index: 178;
+  }
+  .EUROPE_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1096px;
+    top: 2372px;
+    width: 560px;
+    height: 115px;
+    z-index: 177;
+  }
+  .Header {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 2357px;
+    width: 1920px;
+    height: 150px;
+    z-index: 176;
+  }
+  .South_Europe_image_jpg {
+    background-image: url("portfolio_wireframe-assets/South_Europe-image.jpg");
+    opacity: 0.702;
+    position: absolute;
+    left: 0px;
+    top: 900px;
+    width: 6000px;
+    height: 4000px;
+    z-index: 175;
+  }
+  
+/* East Europe page */
+
+.SOUTH_EUROPE {
+    position: absolute;
+    left: 0px;
+    top: 2360px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 285;
+  }
+  .BODY {
+    position: absolute;
+    left: 0px;
+    top: -2360px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 284;
+  }
+  .PLACE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 3221px;
+    width: 223px;
+    height: 10px;
+    z-index: 283;
+  }
+  .DATE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 3211px;
+    width: 223px;
+    height: 10px;
+    z-index: 282;
+  }
+  .TITLE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 3201px;
+    width: 223px;
+    height: 10px;
+    z-index: 281;
+  }
+  .VISITED_PLACE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 3222.2px;
+    z-index: 280;
+  }
+  .PLACE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 3221px;
+    width: 95px;
+    height: 10px;
+    z-index: 279;
+  }
+  .VISITED_DATE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 3212.2px;
+    z-index: 278;
+  }
+  .DATE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 3211px;
+    width: 95px;
+    height: 10px;
+    z-index: 277;
+  }
+  .TITLE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 3202.2px;
+    z-index: 276;
+  }
+  .TITLE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 3201px;
+    width: 95px;
+    height: 10px;
+    z-index: 275;
+  }
+  .PLACE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 3221px;
+    width: 223px;
+    height: 10px;
+    z-index: 274;
+  }
+  .DATE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 3211px;
+    width: 223px;
+    height: 10px;
+    z-index: 273;
+  }
+  .TITLE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 3201px;
+    width: 223px;
+    height: 10px;
+    z-index: 272;
+  }
+  .VISITED_PLACE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 3222.2px;
+    z-index: 271;
+  }
+  .PLACE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 3221px;
+    width: 95px;
+    height: 10px;
+    z-index: 270;
+  }
+  .VISITED_DATE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 3212.2px;
+    z-index: 269;
+  }
+  .DATE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 3211px;
+    width: 95px;
+    height: 10px;
+    z-index: 268;
+  }
+  .TITLE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 855px;
+    top: 3202.2px;
+    z-index: 267;
+  }
+  .TITLE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 3201px;
+    width: 95px;
+    height: 10px;
+    z-index: 266;
+  }
+  .PLACE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 3221px;
+    width: 223px;
+    height: 10px;
+    z-index: 265;
+  }
+  .DATE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 3211px;
+    width: 223px;
+    height: 10px;
+    z-index: 264;
+  }
+  .TITLE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 3201px;
+    width: 223px;
+    height: 10px;
+    z-index: 263;
+  }
+  .VISITED_PLACE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 3222.2px;
+    z-index: 262;
+  }
+  .PLACE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 3221px;
+    width: 95px;
+    height: 10px;
+    z-index: 261;
+  }
+  .VISITED_DATE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 3212.2px;
+    z-index: 260;
+  }
+  .DATE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 3211px;
+    width: 95px;
+    height: 10px;
+    z-index: 259;
+  }
+  .TITLE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 487px;
+    top: 3202.2px;
+    z-index: 258;
+  }
+  .TITLE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 3201px;
+    width: 95px;
+    height: 10px;
+    z-index: 257;
+  }
+  .PLACE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 3222px;
+    width: 223px;
+    height: 10px;
+    z-index: 256;
+  }
+  .DATE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 3212px;
+    width: 223px;
+    height: 10px;
+    z-index: 255;
+  }
+  .TITLE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 3202px;
+    width: 223px;
+    height: 10px;
+    z-index: 254;
+  }
+  .VISITED_PLACE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 3223.2px;
+    z-index: 253;
+  }
+  .PLACE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 3222px;
+    width: 95px;
+    height: 10px;
+    z-index: 252;
+  }
+  .VISITED_DATE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 3213.2px;
+    z-index: 251;
+  }
+  .DATE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 3212px;
+    width: 95px;
+    height: 10px;
+    z-index: 250;
+  }
+  .TITLE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 116px;
+    top: 3203.2px;
+    z-index: 249;
+  }
+  .TITLE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 3202px;
+    width: 95px;
+    height: 10px;
+    z-index: 248;
+  }
+  .PLACE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2866px;
+    width: 223px;
+    height: 10px;
+    z-index: 247;
+  }
+  .DATE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2856px;
+    width: 223px;
+    height: 10px;
+    z-index: 246;
+  }
+  .TITLE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 2846px;
+    width: 223px;
+    height: 10px;
+    z-index: 245;
+  }
+  .VISITED_PLACE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 2867.2px;
+    z-index: 244;
+  }
+  .PLACE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2866px;
+    width: 95px;
+    height: 10px;
+    z-index: 243;
+  }
+  .VISITED_DATE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 2857.2px;
+    z-index: 242;
+  }
+  .DATE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2856px;
+    width: 95px;
+    height: 10px;
+    z-index: 241;
+  }
+  .TITLE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 2847.2px;
+    z-index: 240;
+  }
+  .TITLE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2846px;
+    width: 95px;
+    height: 10px;
+    z-index: 239;
+  }
+  .PLACE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 2866px;
+    width: 223px;
+    height: 10px;
+    z-index: 238;
+  }
+  .DATE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 2856px;
+    width: 223px;
+    height: 10px;
+    z-index: 237;
+  }
+  .TITLE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 2846px;
+    width: 223px;
+    height: 10px;
+    z-index: 236;
+  }
+  .VISITED_PLACE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 2867.2px;
+    z-index: 235;
+  }
+  .PLACE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2866px;
+    width: 95px;
+    height: 10px;
+    z-index: 234;
+  }
+  .VISITED_DATE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 2857.2px;
+    z-index: 233;
+  }
+  .DATE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2856px;
+    width: 95px;
+    height: 10px;
+    z-index: 232;
+  }
+  .TITLE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 853px;
+    top: 2847.2px;
+    z-index: 231;
+  }
+  .TITLE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2846px;
+    width: 95px;
+    height: 10px;
+    z-index: 230;
+  }
+  .PLACE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 2866px;
+    width: 223px;
+    height: 10px;
+    z-index: 229;
+  }
+  .DATE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 2856px;
+    width: 223px;
+    height: 10px;
+    z-index: 228;
+  }
+  .TITLE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 2846px;
+    width: 223px;
+    height: 10px;
+    z-index: 227;
+  }
+  .VISITED_PLACE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 2867.2px;
+    z-index: 226;
+  }
+  .PLACE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2866px;
+    width: 95px;
+    height: 10px;
+    z-index: 225;
+  }
+  .VISITED_DATE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 2857.2px;
+    z-index: 224;
+  }
+  .DATE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2856px;
+    width: 95px;
+    height: 10px;
+    z-index: 223;
+  }
+  .TITLE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 485px;
+    top: 2847.2px;
+    z-index: 222;
+  }
+  .TITLE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2846px;
+    width: 95px;
+    height: 10px;
+    z-index: 221;
+  }
+  .PLACE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 2867px;
+    width: 223px;
+    height: 10px;
+    z-index: 220;
+  }
+  .DATE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 2857px;
+    width: 223px;
+    height: 10px;
+    z-index: 219;
+  }
+  .TITLE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 2847px;
+    width: 223px;
+    height: 10px;
+    z-index: 218;
+  }
+  .VISITED_PLACE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 2868.2px;
+    z-index: 217;
+  }
+  .PLACE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2867px;
+    width: 95px;
+    height: 10px;
+    z-index: 216;
+  }
+  .VISITED_DATE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 2858.2px;
+    z-index: 215;
+  }
+  .DATE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2857px;
+    width: 95px;
+    height: 10px;
+    z-index: 214;
+  }
+  .TITLE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115px;
+    top: 2848.2px;
+    z-index: 213;
+  }
+  .TITLE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2847px;
+    width: 95px;
+    height: 10px;
+    z-index: 212;
+  }
+  .SPAIN {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 108px;
+    top: 2924.6px;
+    z-index: 211;
+  }
+  .ITALY {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 108px;
+    top: 2570.6px;
+    z-index: 210;
+  }
+  .SOUTH_EUROPE {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 54px;
+    top: 2526.6px;
+    z-index: 209;
+  }
+  .VERTICAL_ScrollBar {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(137, 137, 137);
+    position: absolute;
+    left: 1887px;
+    top: 2509px;
+    width: 31px;
+    height: 306px;
+    z-index: 208;
+  }
+  .VERTICAL_ScrollBar_whole {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(191, 191, 191);
+    position: absolute;
+    left: 1887px;
+    top: 2508px;
+    width: 32px;
+    height: 831px;
+    z-index: 207;
+  }
+  .LINE2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2966px;
+    width: 318px;
+    height: 230px;
+    z-index: 206;
+  }
+  .LINE2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 2967px;
+    width: 318px;
+    height: 230px;
+    z-index: 205;
+  }
+  .LINE2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 2967px;
+    width: 318px;
+    height: 230px;
+    z-index: 204;
+  }
+  .LINE2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 2967px;
+    width: 318px;
+    height: 230px;
+    z-index: 203;
+  }
+  .LINE2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 2921px;
+    width: 1790px;
+    height: 322px;
+    z-index: 202;
+  }
+  .LINE1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 201;
+  }
+  .LINE1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 200;
+  }
+  .LINE1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 199;
+  }
+  .LINE1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 2613px;
+    width: 318px;
+    height: 230px;
+    z-index: 198;
+  }
+  .LINE1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 2563px;
+    width: 1790px;
+    height: 322px;
+    z-index: 197;
+  }
+  .FOOTER {
+    position: absolute;
+    left: 0px;
+    top: -2360px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 195;
+  }
+  .Facebook {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 898.5px;
+    top: 3350.288px;
+    width: 99px;
+    height: 16px;
+    z-index: 194;
+  }
+  .Instagram {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1067.5px;
+    top: 3375.055px;
+    width: 105px;
+    height: 21px;
+    z-index: 193;
+  }
+  .Twiter {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 735px;
+    top: 3375.055px;
+    width: 70px;
+    height: 16px;
+    z-index: 192;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 734px;
+    top: 3349px;
+    width: 120px;
+    height: 80px;
+    z-index: 191;
+  }
+  .Twitter_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1062px;
+    top: 3349px;
+    width: 120px;
+    height: 80px;
+    z-index: 190;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 898px;
+    top: 3349px;
+    width: 120px;
+    height: 80px;
+    z-index: 189;
+  }
+  .Footer {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 3339px;
+    width: 1920px;
+    height: 100px;
+    z-index: 188;
+  }
+  .HEADER {
+    position: absolute;
+    left: 0px;
+    top: -2360px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 186;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 58.5px;
+    top: 2413.082px;
+    width: 457px;
+    height: 24px;
+    z-index: 185;
+  }
+  .Rectangle_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 59px;
+    top: 2383px;
+    width: 538px;
+    height: 94px;
+    z-index: 184;
+  }
+  .ABOUT {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1674.016px;
+    top: 2427.082px;
+    width: 128px;
+    height: 34px;
+    z-index: 183;
+  }
+  .WEST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -webkit-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -ms-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    position: absolute;
+    left: 1507px;
+    top: 2426.797px;
+    width: 104px;
+    height: 33.571px;
+    z-index: 182;
+  }
+  .EAST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1376.5px;
+    top: 2427.082px;
+    width: 95px;
+    height: 34px;
+    z-index: 181;
+  }
+  .SOUTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1241.5px;
+    top: 2427.082px;
+    width: 127px;
+    height: 34px;
+    z-index: 180;
+  }
+  .NORTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1091.5px;
+    top: 2427.082px;
+    width: 133px;
+    height: 34px;
+    z-index: 179;
+  }
+  .EUROPE {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1236px;
+    top: 2378.082px;
+    width: 149px;
+    height: 24px;
+    z-index: 178;
+  }
+  .EUROPE_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1096px;
+    top: 2372px;
+    width: 560px;
+    height: 115px;
+    z-index: 177;
+  }
+  .Header {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 2357px;
+    width: 1920px;
+    height: 150px;
+    z-index: 176;
+  }
+  .South_Europe_image_jpg {
+    background-image: url("portfolio_wireframe-assets/South_Europe-image.jpg");
+    opacity: 0.702;
+    position: absolute;
+    left: 0px;
+    top: 900px;
+    width: 6000px;
+    height: 4000px;
+    z-index: 175;
+  }
+  
+  /* West Europe page */
+
+  .WEST_EUROPE {
+    position: absolute;
+    left: 0px;
+    top: 4720px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 512;
+  }
+  .BODY {
+    position: absolute;
+    left: 0px;
+    top: -4720px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 511;
+  }
+  .PLACE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 5581px;
+    width: 223px;
+    height: 10px;
+    z-index: 510;
+  }
+  .DATE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 5571px;
+    width: 223px;
+    height: 10px;
+    z-index: 509;
+  }
+  .TITLE_Rectangle_Input2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 5561px;
+    width: 223px;
+    height: 10px;
+    z-index: 508;
+  }
+  .VISITED_PLACE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 5582.2px;
+    z-index: 507;
+  }
+  .PLACE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5581px;
+    width: 95px;
+    height: 10px;
+    z-index: 506;
+  }
+  .VISITED_DATE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 5572.2px;
+    z-index: 505;
+  }
+  .DATE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5571px;
+    width: 95px;
+    height: 10px;
+    z-index: 504;
+  }
+  .TITLE2_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 5562.2px;
+    z-index: 503;
+  }
+  .TITLE_Rectangle2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5561px;
+    width: 95px;
+    height: 10px;
+    z-index: 502;
+  }
+  .PLACE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 5581px;
+    width: 223px;
+    height: 10px;
+    z-index: 501;
+  }
+  .DATE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 5571px;
+    width: 223px;
+    height: 10px;
+    z-index: 500;
+  }
+  .TITLE_Rectangle_Input2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 944px;
+    top: 5561px;
+    width: 223px;
+    height: 10px;
+    z-index: 499;
+  }
+  .VISITED_PLACE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 5582.2px;
+    z-index: 498;
+  }
+  .PLACE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 5581px;
+    width: 95px;
+    height: 10px;
+    z-index: 497;
+  }
+  .VISITED_DATE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 854.578px;
+    top: 5572.2px;
+    z-index: 496;
+  }
+  .DATE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 5571px;
+    width: 95px;
+    height: 10px;
+    z-index: 495;
+  }
+  .TITLE2_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 855px;
+    top: 5562.2px;
+    z-index: 494;
+  }
+  .TITLE_Rectangle2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 5561px;
+    width: 95px;
+    height: 10px;
+    z-index: 493;
+  }
+  .PLACE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 5581px;
+    width: 223px;
+    height: 10px;
+    z-index: 492;
+  }
+  .DATE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 5571px;
+    width: 223px;
+    height: 10px;
+    z-index: 491;
+  }
+  .TITLE_Rectangle_Input2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 576px;
+    top: 5561px;
+    width: 223px;
+    height: 10px;
+    z-index: 490;
+  }
+  .VISITED_PLACE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 5582.2px;
+    z-index: 489;
+  }
+  .PLACE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 5581px;
+    width: 95px;
+    height: 10px;
+    z-index: 488;
+  }
+  .VISITED_DATE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 486.578px;
+    top: 5572.2px;
+    z-index: 487;
+  }
+  .DATE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 5571px;
+    width: 95px;
+    height: 10px;
+    z-index: 486;
+  }
+  .TITLE2_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 487px;
+    top: 5562.2px;
+    z-index: 485;
+  }
+  .TITLE_Rectangle2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 5561px;
+    width: 95px;
+    height: 10px;
+    z-index: 484;
+  }
+  .PLACE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 5582px;
+    width: 223px;
+    height: 10px;
+    z-index: 483;
+  }
+  .DATE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 5572px;
+    width: 223px;
+    height: 10px;
+    z-index: 482;
+  }
+  .TITLE_Rectangle_Input2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 205px;
+    top: 5562px;
+    width: 223px;
+    height: 10px;
+    z-index: 481;
+  }
+  .VISITED_PLACE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 5583.2px;
+    z-index: 480;
+  }
+  .PLACE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 5582px;
+    width: 95px;
+    height: 10px;
+    z-index: 479;
+  }
+  .VISITED_DATE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115.578px;
+    top: 5573.2px;
+    z-index: 478;
+  }
+  .DATE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 5572px;
+    width: 95px;
+    height: 10px;
+    z-index: 477;
+  }
+  .TITLE2_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 116px;
+    top: 5563.2px;
+    z-index: 476;
+  }
+  .TITLE_Rectangle2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 5562px;
+    width: 95px;
+    height: 10px;
+    z-index: 475;
+  }
+  .PLACE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 5226px;
+    width: 223px;
+    height: 10px;
+    z-index: 474;
+  }
+  .DATE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 5216px;
+    width: 223px;
+    height: 10px;
+    z-index: 473;
+  }
+  .TITLE_Rectangle_Input1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1308px;
+    top: 5206px;
+    width: 223px;
+    height: 10px;
+    z-index: 472;
+  }
+  .VISITED_PLACE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 5227.2px;
+    z-index: 471;
+  }
+  .PLACE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5226px;
+    width: 95px;
+    height: 10px;
+    z-index: 470;
+  }
+  .VISITED_DATE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1218.578px;
+    top: 5217.2px;
+    z-index: 469;
+  }
+  .DATE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5216px;
+    width: 95px;
+    height: 10px;
+    z-index: 468;
+  }
+  .TITLE1_4 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1219px;
+    top: 5207.2px;
+    z-index: 467;
+  }
+  .TITLE_Rectangle1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5206px;
+    width: 95px;
+    height: 10px;
+    z-index: 466;
+  }
+  .PLACE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 5226px;
+    width: 223px;
+    height: 10px;
+    z-index: 465;
+  }
+  .DATE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 5216px;
+    width: 223px;
+    height: 10px;
+    z-index: 464;
+  }
+  .TITLE_Rectangle_Input1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 942px;
+    top: 5206px;
+    width: 223px;
+    height: 10px;
+    z-index: 463;
+  }
+  .VISITED_PLACE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 5227.2px;
+    z-index: 462;
+  }
+  .PLACE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 5226px;
+    width: 95px;
+    height: 10px;
+    z-index: 461;
+  }
+  .VISITED_DATE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 852.578px;
+    top: 5217.2px;
+    z-index: 460;
+  }
+  .DATE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 5216px;
+    width: 95px;
+    height: 10px;
+    z-index: 459;
+  }
+  .TITLE1_3 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 853px;
+    top: 5207.2px;
+    z-index: 458;
+  }
+  .TITLE_Rectangle1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 5206px;
+    width: 95px;
+    height: 10px;
+    z-index: 457;
+  }
+  .PLACE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 5226px;
+    width: 223px;
+    height: 10px;
+    z-index: 456;
+  }
+  .DATE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 5216px;
+    width: 223px;
+    height: 10px;
+    z-index: 455;
+  }
+  .TITLE_Rectangle_Input1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 574px;
+    top: 5206px;
+    width: 223px;
+    height: 10px;
+    z-index: 454;
+  }
+  .VISITED_PLACE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 5227.2px;
+    z-index: 453;
+  }
+  .PLACE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 5226px;
+    width: 95px;
+    height: 10px;
+    z-index: 452;
+  }
+  .VISITED_DATE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 484.578px;
+    top: 5217.2px;
+    z-index: 451;
+  }
+  .DATE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 5216px;
+    width: 95px;
+    height: 10px;
+    z-index: 450;
+  }
+  .TITLE1_2 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 485px;
+    top: 5207.2px;
+    z-index: 449;
+  }
+  .TITLE_Rectangle1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 5206px;
+    width: 95px;
+    height: 10px;
+    z-index: 448;
+  }
+  .PLACE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 5227px;
+    width: 223px;
+    height: 10px;
+    z-index: 447;
+  }
+  .DATE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 5217px;
+    width: 223px;
+    height: 10px;
+    z-index: 446;
+  }
+  .TITLE_Rectangle_Input1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 204px;
+    top: 5207px;
+    width: 223px;
+    height: 10px;
+    z-index: 445;
+  }
+  .VISITED_PLACE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 5228.2px;
+    z-index: 444;
+  }
+  .PLACE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 5227px;
+    width: 95px;
+    height: 10px;
+    z-index: 443;
+  }
+  .VISITED_DATE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 114.578px;
+    top: 5218.2px;
+    z-index: 442;
+  }
+  .DATE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 5217px;
+    width: 95px;
+    height: 10px;
+    z-index: 441;
+  }
+  .TITLE1_1 {
+    font-size: 8px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 115px;
+    top: 5208.2px;
+    z-index: 440;
+  }
+  .TITLE_Rectangle1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 5207px;
+    width: 95px;
+    height: 10px;
+    z-index: 439;
+  }
+  .FRANCE {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 113px;
+    top: 5284.6px;
+    z-index: 438;
+  }
+  .UK {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 107px;
+    top: 4930.6px;
+    z-index: 437;
+  }
+  .WEST_EUROPE {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 61.141px;
+    top: 4886.6px;
+    z-index: 436;
+  }
+  .VERTICAL_ScrollBar {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(137, 137, 137);
+    position: absolute;
+    left: 1887px;
+    top: 4869px;
+    width: 31px;
+    height: 306px;
+    z-index: 435;
+  }
+  .VERTICAL_ScrollBar_whole {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(191, 191, 191);
+    position: absolute;
+    left: 1887px;
+    top: 4868px;
+    width: 32px;
+    height: 831px;
+    z-index: 434;
+  }
+  .LINE2_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 5326px;
+    width: 318px;
+    height: 230px;
+    z-index: 433;
+  }
+  .LINE2_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 849px;
+    top: 5327px;
+    width: 318px;
+    height: 230px;
+    z-index: 432;
+  }
+  .LINE2_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 481px;
+    top: 5327px;
+    width: 318px;
+    height: 230px;
+    z-index: 431;
+  }
+  .LINE2_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 110px;
+    top: 5327px;
+    width: 318px;
+    height: 230px;
+    z-index: 430;
+  }
+  .LINE2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 5281px;
+    width: 1790px;
+    height: 322px;
+    z-index: 429;
+  }
+  .LINE1_4 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 1213px;
+    top: 4973px;
+    width: 318px;
+    height: 230px;
+    z-index: 428;
+  }
+  .LINE1_3 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 847px;
+    top: 4973px;
+    width: 318px;
+    height: 230px;
+    z-index: 427;
+  }
+  .LINE1_2 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 479px;
+    top: 4973px;
+    width: 318px;
+    height: 230px;
+    z-index: 426;
+  }
+  .LINE1_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 109px;
+    top: 4973px;
+    width: 318px;
+    height: 230px;
+    z-index: 425;
+  }
+  .LINE1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 53px;
+    top: 4923px;
+    width: 1790px;
+    height: 322px;
+    z-index: 424;
+  }
+  .FOOTER {
+    position: absolute;
+    left: 0px;
+    top: -4720px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 422;
+  }
+  .Facebook {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 898.5px;
+    top: 5710.288px;
+    width: 99px;
+    height: 16px;
+    z-index: 421;
+  }
+  .Instagram {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1067.5px;
+    top: 5735.055px;
+    width: 105px;
+    height: 21px;
+    z-index: 420;
+  }
+  .Twiter {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 735px;
+    top: 5735.055px;
+    width: 70px;
+    height: 16px;
+    z-index: 419;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 734px;
+    top: 5709px;
+    width: 120px;
+    height: 80px;
+    z-index: 418;
+  }
+  .Twitter_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1062px;
+    top: 5709px;
+    width: 120px;
+    height: 80px;
+    z-index: 417;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 898px;
+    top: 5709px;
+    width: 120px;
+    height: 80px;
+    z-index: 416;
+  }
+  .Footer {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 5699px;
+    width: 1920px;
+    height: 100px;
+    z-index: 415;
+  }
+  .HEADER {
+    position: absolute;
+    left: 0px;
+    top: -4720px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 413;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 58.5px;
+    top: 4773.082px;
+    width: 457px;
+    height: 24px;
+    z-index: 412;
+  }
+  .Rectangle_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 59px;
+    top: 4743px;
+    width: 538px;
+    height: 94px;
+    z-index: 411;
+  }
+  .ABOUT {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1674.016px;
+    top: 4787.082px;
+    width: 128px;
+    height: 34px;
+    z-index: 410;
+  }
+  .WEST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -webkit-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -ms-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    position: absolute;
+    left: 1507px;
+    top: 4786.797px;
+    width: 104px;
+    height: 33.571px;
+    z-index: 409;
+  }
+  .EAST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1376.5px;
+    top: 4787.082px;
+    width: 95px;
+    height: 34px;
+    z-index: 408;
+  }
+  .SOUTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1241.5px;
+    top: 4787.082px;
+    width: 127px;
+    height: 34px;
+    z-index: 407;
+  }
+  .NORTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1091.5px;
+    top: 4787.082px;
+    width: 133px;
+    height: 34px;
+    z-index: 406;
+  }
+  .EUROPE {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1236px;
+    top: 4738.082px;
+    width: 149px;
+    height: 24px;
+    z-index: 405;
+  }
+  .EUROPE_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1096px;
+    top: 4732px;
+    width: 560px;
+    height: 115px;
+    z-index: 404;
+  }
+  .Header {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 4717px;
+    width: 1920px;
+    height: 150px;
+    z-index: 403;
+  }
+  .West_Europe_image_jpg {
+    background-image: url("portfolio_wireframe-assets/West-Europe-image.jpg");
+    opacity: 0.702;
+    position: absolute;
+    left: 0px;
+    top: 4500px;
+    width: 2000px;
+    height: 1300px;
+    z-index: 402;
+  }
+  
+  /* About page */
+
+  .ABOUT {
+    position: absolute;
+    left: 0px;
+    top: 5900px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 542;
+  }
+  .BODY {
+    position: absolute;
+    left: 0px;
+    top: -5900px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 541;
+  }
+  .TBD {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 53px;
+    top: 6588.082px;
+    width: 72px;
+    height: 24px;
+    z-index: 540;
+  }
+  .Rectangle_529 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 52px;
+    top: 6529px;
+    width: 1812px;
+    height: 265px;
+    z-index: 539;
+  }
+  .My_Profile {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 898.125px;
+    top: 6097.082px;
+    width: 873px;
+    height: 361px;
+    z-index: 538;
+  }
+  .Rectangle_525 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(244, 245, 248);
+    position: absolute;
+    left: 877px;
+    top: 6082px;
+    width: 988px;
+    height: 418px;
+    z-index: 537;
+  }
+  .Me_jpg {
+    background-image: url("portfolio_wireframe-assets/Me.jpg");
+    position: absolute;
+    left: 52px;
+    top: 6081px;
+    width: 800px;
+    height: 421px;
+    z-index: 536;
+  }
+  .FOOTER {
+    position: absolute;
+    left: 0px;
+    top: -5900px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 534;
+  }
+  .Facebook {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 898.5px;
+    top: 6890.288px;
+    width: 99px;
+    height: 16px;
+    z-index: 533;
+  }
+  .Instagram {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1067.5px;
+    top: 6915.055px;
+    width: 105px;
+    height: 21px;
+    z-index: 532;
+  }
+  .Twiter {
+    font-size: 24px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 735px;
+    top: 6915.055px;
+    width: 70px;
+    height: 16px;
+    z-index: 531;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 734px;
+    top: 6889px;
+    width: 120px;
+    height: 80px;
+    z-index: 530;
+  }
+  .Twitter_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1062px;
+    top: 6889px;
+    width: 120px;
+    height: 80px;
+    z-index: 529;
+  }
+  .Facebook_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 898px;
+    top: 6889px;
+    width: 120px;
+    height: 80px;
+    z-index: 528;
+  }
+  .Footer {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 6879px;
+    width: 1920px;
+    height: 100px;
+    z-index: 527;
+  }
+  .HEADER {
+    position: absolute;
+    left: 0px;
+    top: -5900px;
+    width: 3460px;
+    height: 6980px;
+    z-index: 525;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 58.5px;
+    top: 5953.082px;
+    width: 457px;
+    height: 24px;
+    z-index: 524;
+  }
+  .Rectangle_1 {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(150, 211, 238);
+    position: absolute;
+    left: 59px;
+    top: 5923px;
+    width: 538px;
+    height: 94px;
+    z-index: 523;
+  }
+  .ABOUT {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1674.016px;
+    top: 5967.082px;
+    width: 128px;
+    height: 34px;
+    z-index: 522;
+  }
+  .WEST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    -moz-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -webkit-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    -ms-transform: matrix( 0.99999999969837,0.00002456151652,-0.00002456151652,0.99999999969837,0,0);
+    position: absolute;
+    left: 1507px;
+    top: 5966.797px;
+    width: 104px;
+    height: 33.571px;
+    z-index: 521;
+  }
+  .EAST {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1376.5px;
+    top: 5967.082px;
+    width: 95px;
+    height: 34px;
+    z-index: 520;
+  }
+  .SOUTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1241.5px;
+    top: 5967.082px;
+    width: 127px;
+    height: 34px;
+    z-index: 519;
+  }
+  .NORTH {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1091.5px;
+    top: 5967.082px;
+    width: 133px;
+    height: 34px;
+    z-index: 518;
+  }
+  .EUROPE {
+    font-size: 36px;
+    font-family: "Times New Roman";
+    color: rgb(6, 6, 6);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1236px;
+    top: 5918.082px;
+    width: 149px;
+    height: 24px;
+    z-index: 517;
+  }
+  .EUROPE_rectangle {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 18px;
+    background-color: rgb(248, 181, 81);
+    position: absolute;
+    left: 1096px;
+    top: 5912px;
+    width: 560px;
+    height: 115px;
+    z-index: 516;
+  }
+  .Header {
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: rgb(115, 225, 115);
+    position: absolute;
+    left: -2px;
+    top: 5897px;
+    width: 1920px;
+    height: 150px;
+    z-index: 515;
+  }
+  

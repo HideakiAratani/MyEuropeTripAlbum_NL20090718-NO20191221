@@ -1,0 +1,207 @@
+/* East Europe page */
+
+body {
+  background-color: #a6dba0;
+}
+
+/* Modal Windows part */
+
+.modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.8);
+  z-index: 1;
+  display: none;
+}
+
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  margin: 1% 20%;
+  animation-name: modal;
+  animation-duration: 2s;
+  position: relative;
+}
+
+.modal-header {
+  display: flex;
+  padding: 5px;
+  background: white;
+  position: relative;
+  justify-content: center;
+  align-content: center;
+}
+
+.close {
+  position: absolute;
+  right: 1.5em;
+}
+
+.close:hover {
+  cursor: pointer;
+}
+
+.modal-body {
+  display: flex;
+  height: 85vh;
+}
+
+.modal-body img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.modal-footer {
+  display: flex;
+  padding: 5px;
+  background: white;
+  justify-content: center;
+  align-content: center;
+}
+
+@keyframes modal {
+  from {
+      right: -50px;
+      opacity: 0;
+  }
+  to {
+      right: 0;
+      opacity: 1;
+  }
+}
+
+@media screen and (max-width:1350px) {
+  .modal-body {
+    height: 80vh;
+  }
+}
+
+@media screen and (max-width:900px) {
+  .modal-content {
+    margin: 1% 10%;
+  }
+  .modal-body {
+    height: 75vh;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .modal-content {
+    margin: 15% 3%;
+  }
+  .modal-body {
+    height: 65vh;
+  }
+}
+
+@media screen and (max-width:420px) {
+  .close {
+    top: 0em;
+    right: 0.3em;
+  }
+  .modal-content {
+    margin: 5% 3.25%;
+    width: 90vw;
+  }
+  .modal-body {
+    height: auto;
+  }
+}
+
+/* Main contents part */
+
+/* Select country */
+
+h2, h3 {
+  margin-left: 30px;
+}
+
+.europe_title {
+  color: #a6dba0;
+}
+
+.contents_ee h2 {
+  color: #a6dba0;
+  text-shadow: 0 -1px #fff,0 -2px #fff, 0 2px 4px rgba(0,0,0,0.7);
+}
+
+.selectCountry {
+  position: absolute;
+  right: 1.5em;
+}
+
+select {
+  font-size: 16px;
+  border: 1px;
+}
+
+h2, .selectCountry {
+  display: inline-block;
+}
+
+/* Contents of East Europe */
+
+.box_ee {
+  width: 95%;
+  display:grid;
+  grid-template-columns: repeat(auto-fit,minmax(320px, 1fr)); 
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px auto;
+  background: white;
+}
+
+.ee-content {
+  margin: 10px;
+}
+
+.ee-content img {
+  object-fit: cover;
+  height: 180px;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  font-size: 12px;
+  background: white;
+}
+
+th {
+  width: 30%;
+}
+table, td, th {
+  border-collapse: collapse;
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+}
+
+p:nth-of-type(2) {
+  display: none;
+  text-align: left;
+}
+
+.arrow-icon {
+  position: absolute;
+}
+
+@media screen and (max-width:700px) {
+  h2, .selectCountry, .box_ee {
+    position: relative;
+    display: block;
+  }
+  .box_ee {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+  }
+  .selectCountry {
+    position: relative;
+    left: 45%;
+  }
+}

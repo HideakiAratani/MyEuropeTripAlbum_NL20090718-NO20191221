@@ -1,0 +1,323 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+/* Home page */
+
+/* Header part */
+
+.Header {
+  background-color: #333333;
+  top: 0;
+  display: grid;
+  grid-template-columns: 60% auto;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+}
+
+.MY_EUROPE_TRIP_ALBUM {
+  font-size: 36px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: rgb(6, 6, 6);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin-left: 50px;
+}
+
+.MY_EUROPE_TRIP_ALBUM a{
+  text-decoration: none;
+  color: white;
+}
+
+.HOME_PAGE_TITLE {
+  text-shadow:
+    0 15px 10px rgba(0, 0, 0, 1),
+    1px 1px 1px rgba(0, 0, 0, 1),
+    -1px -1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.HOME_PAGE_TITLE:hover {
+  text-shadow: none;
+}
+
+.menulinks {
+  display: grid;
+  grid-template-columns: auto 30%;
+  justify-content: center;
+  align-items: baseline;
+  text-align: center;
+  align-content: baseline;
+}
+
+.EUROPE_rectangle {
+  border-radius: 18px;
+  background-color: #222222;
+  color: white;
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  height: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.EUROPE_rectangle ul {
+  display: flex;
+  column-gap: 25px;
+}
+
+header ul li {
+  list-style-type: none;
+}
+
+.EUROPE_text {
+  font-size: 20px;
+}
+
+.NORTH {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.SOUTH {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.EAST {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.WEST {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.ABOUT {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  text-decoration: underline;
+  line-height: 1.2;
+  text-align: center;
+  margin-left: 25px;
+}
+
+@media screen and (max-width:1400px) {
+  .menulinks {
+    display: inline-block;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .Header {
+    height: 200px;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .MY_EUROPE_TRIP_ALBUM {
+    margin: auto;
+  }
+  .menulinks {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+  .EUROPE_rectangle {
+    padding: 0;
+  }
+  .EUROPE_rectangle ul {
+    justify-content: center;
+  }
+  .EUROPE_text {
+    margin: auto;
+  }
+}
+
+@media screen and (max-width:600px) {
+  div .map_visited {
+    width: 95%;
+  }
+  .map_visited p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+  }
+  .map_visited br {
+    display: none;
+  }
+  .map_visited img {
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* body part */
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+#index {
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url('../images/west_europe/giammarco-q140lHKzXZY-unsplash.jpg');
+  background-size: cover;
+}
+
+h1.title {
+  font-family: "Century Gothic";
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: -webkit-linear-gradient( 45deg,#0000AA, #007700, #FFFF00, #FF0000);
+  background-size:400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textAnime 15s infinite;
+}
+
+@keyframes textAnime{
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+.map_visited {
+  position: relative;
+  width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 110px;
+}
+
+.contents p {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 700;
+  color: white;
+  text-shadow:  2px  2px 10px #777 ,
+               -2px  2px 10px #777 ,
+                2px -2px 10px #777 ,
+               -2px -2px 10px #777;
+}
+
+.span-ne {
+  color: #92c5de;
+}
+
+.span-se {
+  color: #ffffbf;
+}
+
+.span-ee {
+  color: #a6dba0;
+}
+
+.span-we {
+  color: #fdae61;
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+}
+
+/* footer part */
+
+footer {
+  align-items: center;
+  justify-content: center;
+  background-color: #333333;
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  margin-top: auto;
+}
+
+footer li {
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.Twitter img {
+  object-fit: cover;
+  width: 50px;
+}
+
+.Facebook img {
+  object-fit: cover;
+  width: 50px;
+}
+
+.Instagram img {
+  object-fit: cover;
+  width: 50px;
+}
+
+/* Whole Europe page, About page */
+
+h1.europe_title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  text-shadow: 0 -1px #fff,0 -2px #fff, 0 2px 4px rgba(0,0,0,0.7);
+}
+
+h1.about_title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  text-shadow: 0 -1px #fff,0 -2px #fff, 0 2px 4px rgba(0,0,0,0.7);
+}
+
+.profileContents h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  text-shadow: 0 -1px #fff,0 -2px #fff, 0 2px 4px rgba(0,0,0,0.7);
+}
+
+/* Whole Europe page */
+
+.show-hide {
+  cursor: pointer;
+  text-align: center;
+}
+
+.show-hide:hover {
+background-color: #ccc;
+}

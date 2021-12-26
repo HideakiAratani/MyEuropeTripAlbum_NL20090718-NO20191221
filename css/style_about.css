@@ -1,0 +1,254 @@
+/* About page */
+
+/* Modal  Windows part */
+
+.modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.8);
+  z-index: 1;
+  display: none;
+}
+
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  margin: 1% 20%;
+  animation-name: modal;
+  animation-duration: 2s;
+  position: relative;
+}
+
+.modal-header {
+  display: flex;
+  padding: 5px;
+  background: white;
+  position: relative;
+  justify-content: center;
+  align-content: center;
+}
+
+.close {
+  position: absolute;
+  right: 1.5em;
+}
+
+.close:hover {
+  cursor: pointer;
+}
+
+.modal-body img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.modal-body {
+  display: flex;
+  height: 80vh;
+}
+
+.modal-footer {
+  display: flex;
+  padding: 5px;
+  background: white;
+  justify-content: center;
+  align-content: center;
+}
+
+@keyframes modal {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
+
+@media screen and (max-width:1350px) {
+  .modal-body img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+  }
+  .modal-body {
+    display: flex;
+    height: auto;
+  }
+}
+
+@media screen and (max-width:950px) {
+  .modal-content {
+    margin: 1% 10%;
+  }
+}
+
+@media screen and (max-width:720px) {
+  .modal-content {
+    margin: 15% 5%;
+  }
+}
+
+@media screen and (max-width:640px) {
+  .modal-content {
+    margin: 15% 3%;
+  }
+  .close {
+    right: 0.5em;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .modal-content {
+    margin: 15% 3%;
+  }
+  .close {
+    top: 1.3em;
+  }
+}
+
+@media screen and (max-width:535px) {
+  .modal-content {
+    margin: 15% 3%;
+  }
+  .close {
+    top: 0.5em;
+    right: 0.1em;
+  }
+}
+
+/* Main contents part */
+
+.contents_about {
+  background-size: auto 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+h1.about_title {
+  text-align: center;
+}
+
+.myProfile {
+  display: flex;
+  justify-content: center;
+}
+
+.myProfile img {
+  display: flex;
+  align-items: center;
+  object-fit: cover;
+  height: 100%;
+}
+
+.myProfile li {
+  list-style: none;
+}
+
+.myProfile li:nth-of-type(1) {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.myProfile li:nth-of-type(2) {
+  margin-right: 30px;
+}
+
+table, td, th {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  border-collapse: collapse;
+  border: 1px solid #0099FF;
+  padding: 8px;
+  margin-top: 10px;
+}
+
+.profTable span, .blueHighlightDescription {
+  color: blue;
+}
+
+td {
+  background-color: #DDFFFF;
+}
+
+th {
+  width: 30%;
+  text-align: center;
+  background: linear-gradient(to right, #00FFFF, #99FFFF);
+}
+
+.mapAbout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mapAbout li {
+  text-align: center;
+  list-style: none;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.mapAbout p {
+  margin-bottom: 5px;
+}
+
+.mapAbout img {
+  width: 85%;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.mapAbout img:hover {
+  cursor: pointer;
+}
+
+.mapDescription {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.mapAbout, .mapDescription {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  text-shadow:
+    0 0 8px white, 0 0 8px white, 0 0 8px white,
+    0 0 8px white, 0 0 8px white, 0 0 8px white,
+    0 0 8px white, 0 0 8px white, 0 0 8px white,
+    0 0 8px white, 0 0 8px white, 0 0 8px white,
+    0 0 8px white, 0 0 8px white, 0 0 8px white,
+    0 0 8px white;
+}
+
+@media screen and (max-width:1300px) {
+  .myProfile img {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .myProfile img {
+    display: none;
+  }
+}
+
+@media screen and (max-width:420px) {
+  .contents_about ul {
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    list-style-position: inside;
+  }
+  .profileContents {
+    list-style: none;
+    margin-right: 33px;
+    margin-left: 33px;
+  }
+}
