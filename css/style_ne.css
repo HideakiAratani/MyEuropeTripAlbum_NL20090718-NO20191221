@@ -171,6 +171,7 @@ h2, .selectCountry {
 }
 
 table {
+  border: solid 1px red;
   width: 100%;
   font-size: 12px;
   background: white;
@@ -206,6 +207,6 @@ p:nth-of-type(2) {
   }
   .selectCountry {
     position: relative;
-    left: 50%;
+    left: 47%;
   }
 }

@@ -36,13 +36,45 @@ $(function() {
       });
     });
 
+  // Modal window displaying of About page
+
+     $('.imgAboutContents').click(function() {
+
+      var imgSrc = $(this).find('img').attr('src');
+      var title = $(this).find('p');
+      var description = $(this).parent().next();
+      var titleText = title.text();
+      var descriptionText = description.text();
+
+      $('.modal-title').text(titleText);
+      $('#modal-img').attr('src', imgSrc);
+      $('.modal-description').text(descriptionText);
+
+      $('.modal').css('display', 'block');
+    });
+
+  // Modal window closing of each Europe page and About page in case of pressing close button
+
+    $('.close').click(function() {
+      $('.modal').css('display', 'none');
+    });
+  
+  // Modal window closing of each Europe page and About page in case of pressing outside area of modal window
+    
+    $(document).click(function(event){
+      var target = $(event.target);
+      if(target.hasClass('modal')) {
+          target.css('display', 'none');
+      }
+    });
+
   // Gradual loading image function of each Europe page
 
     $('img.lazy').lazyload(
       {
-        threshold: 200 ,
         effect: "fadeIn",
-        effect_speed: 1500
+        effect_speed: 500,
+        skip_invisible: true
       }
     );
 
@@ -67,38 +99,6 @@ $(function() {
 
       $('.modal').css('display', 'block');
 
-    });
-
-  // Modal window displaying of About page
-
-    $('.imgAboutContents').click(function() {
-
-      var imgSrc = $(this).find('img').attr('src');
-      var title = $(this).find('p');
-      var description = $(this).parent().next();
-      var titleText = title.text();
-      var descriptionText = description.text();
-
-      $('.modal-title').text(titleText);
-      $('#modal-img').attr('src', imgSrc);
-      $('.modal-description').text(descriptionText);
-
-      $('.modal').css('display', 'block');
-    });
-
-  // Modal window closing of each Europe page and About page in case of pressing close button
-
-    $('.close').click(function() {
-      $('.modal').css('display', 'none');
-    });
-
-  // Modal window closing of each Europe page and About page in case of pressing outside area of modal window
-  
-    $(document).click(function(event){
-      var target = $(event.target);
-      if(target.hasClass('modal')) {
-          target.css('display', 'none');
-      }
     });
     
 });
