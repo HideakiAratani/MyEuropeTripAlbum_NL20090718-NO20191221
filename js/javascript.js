@@ -27,7 +27,7 @@ $(function() {
 
     $('.show-hide').click(function() {
       $(this).next().slideToggle('slow',function() {
-        if($(this).parent().height() > 17) {
+        if($(this).parent().height() > 20) {
           $(this).prev().text('[Hide]');
         }
         else {
