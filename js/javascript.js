@@ -1,7 +1,7 @@
 $(function() {
-
+  
   // Europe Countries Slider of Home page
-
+  
     $('.map_visited').slick({
         dots: true,
         arrows: false,
@@ -100,5 +100,5 @@ $(function() {
       $('.modal').css('display', 'block');
 
     });
-    
+
 });
