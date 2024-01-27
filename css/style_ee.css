@@ -106,10 +106,9 @@ body {
   }
   .modal-content {
     margin: 5% 3.25%;
-    width: 90vw;
   }
   .modal-body {
-    height: auto;
+    height: 50vh;
   }
 }
 
